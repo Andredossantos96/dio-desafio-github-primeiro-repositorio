@@ -1,0 +1,9 @@
+Projetos desenvolvidos em Bootcamp
+
+1. To do List
+Esse projeto foi desenvolvido em Kotlin e Android, Objetivo era criar um app de Lista de Tarefas
+Link do repositorio: https://github.com/Andredossantos96/Todolist
+
+2. Cadastro de Series
+Esse projeto foi desenvolvido em C# .Net, Objetivo era criar um programa básico para cadastro de séries 
+Link do repositorio: https://github.com/Andredossantos96/DIO.Series
